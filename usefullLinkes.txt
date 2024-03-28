@@ -1,0 +1,3 @@
+some GitHub important guides:
+> https://docs.github.com/pages
+GitHUb skills> https://github.com/skills/github-pages
