@@ -1,3 +1,9 @@
 some GitHub important guides:
 > https://docs.github.com/pages
 GitHUb skills> https://github.com/skills/github-pages
+-----------------------------------------------------------------------------
+Out of scope for this book are a vast number of ways you can customize your 
+GitHub Pages website. Jekyll and GitHub come together to offer a unique experience that requires some coding, but handles a lot of the setup. To find out how to 
+do something specific, start by visiting GitHub Help at
+> https://docs.github.com/pages/setting-up-a-github-pages-site-with-jekyll.
+
